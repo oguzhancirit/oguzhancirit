@@ -1,9 +1,10 @@
 # 💫 About Me:
-As a System Test Engineer, I have a keen interest in artificial intelligence and am currently focusing on enhancing my coding skills through the use of Cursor AI, an AI-powered code editor designed to boost developer productivity. Cursor offers features like AI-driven code generation, intelligent autocompletion, and codebase understanding, which are instrumental in streamlining the coding process. By integrating Cursor into my workflow, I aim to deepen my understanding of AI applications in software development and refine my programming capabilities.
-
+Aeronautical Engineer | Systems & Test Engineer | Software & AI Enthusiast
+I am an Aeronautical Engineer working in systems engineering, verification & validation, and system testing, with professional experience in complex engineering projects.
+Alongside engineering, I enjoy building practical software tools and exploring how AI-assisted development can turn ideas into working products faster.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/](https://www.linkedin.com/in/o%C4%9Fuzhan-ciritcio%C4%9Flu-446789243/?isSelfProfile=true)) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
