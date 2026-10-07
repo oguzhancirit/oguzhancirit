@@ -1,5 +1,6 @@
 # 💫 About Me:
 Aeronautical Engineer | Systems & Test Engineer | Software & AI Enthusiast
+
 I am an Aeronautical Engineer working in systems engineering, verification & validation, and system testing, with professional experience in complex engineering projects.
 Alongside engineering, I enjoy building practical software tools and exploring how AI-assisted development can turn ideas into working products faster.
 
